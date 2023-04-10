@@ -1,0 +1,21 @@
+* { 
+    box-sizing: border-box;
+  }
+  .title{ /*title FOR ALL PAGES*/
+    font-size: 150px;
+    font-variant-caps: small-caps;
+    letter-spacing: -9px;
+    text-align:center;
+    line-height: 0.5;
+    color:#27231d;
+    text-shadow:3px 3px #94560f;
+    margin-top:90px;
+  }
+  .subtitle { /*subtxt underneath title*/
+    word-wrap:break-word;
+    font-size:35px;
+    padding:19px;
+    background-color:#d3ac9ad5;
+    color:rgb(255, 255, 255);
+    text-shadow:2px 2px#c4a16a;
+  }
